@@ -9,7 +9,7 @@ h1 {
 .title {
   text-align: center;
   padding: 5% 20%;
-  background-color: #3f72af;
+  background-color: #EDC988;
   color: #f9f7f7;
 }
 
@@ -24,7 +24,7 @@ h1 {
 }
 
 .border {
-  background-color: #dbe2ef;
+  background-color: #F8EFD4;
 }
 
 ul {
@@ -33,7 +33,7 @@ ul {
 
 a {
   font-size: 1.5rem;
-  color: #112d4e !important;
+  color: #D7385E !important;
   font-weight: bold;
 }
 
@@ -41,6 +41,6 @@ hr {
   border-style: dotted none none none !important;
   width: 100px !important;
   border-width: 4px !important;
-  border-color: #112d4e !important;
+  border-color: #D7385E !important;
   margin: 50px auto;
 }
