@@ -9,12 +9,12 @@ h1 {
 .title {
   text-align: center;
   padding: 5% 20%;
-  background-color: #EDC988;
+  background-color: #3f72af;
   color: #f9f7f7;
 }
 
 .links {
-  background-color: #F8EFD4;
+  background-color: #dbe2ef;
   text-align: center;
   padding: 5% 35%;
 }
@@ -24,7 +24,7 @@ h1 {
 }
 
 .border {
-  background-color: #F8EFD4;
+  background-color: #dbe2ef;
 }
 
 ul {
@@ -33,7 +33,7 @@ ul {
 
 a {
   font-size: 1.5rem;
-  color: #D7385E !important;
+  color: #112d4e !important;
   font-weight: bold;
 }
 
@@ -41,6 +41,6 @@ hr {
   border-style: dotted none none none !important;
   width: 100px !important;
   border-width: 4px !important;
-  border-color: #D7385E !important;
+  border-color: #112d4e !important;
   margin: 50px auto;
 }
